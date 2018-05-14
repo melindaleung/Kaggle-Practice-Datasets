@@ -4,4 +4,4 @@
 
 ## Table of Contents
 1. [Titanic](https://github.com/melindaleung/Kaggle-Practice-Datasets/tree/master/Titanic)
-2. [Default of Credit Card Clients](https://github.com/melindaleung/Kaggle-Practice-Datasets/tree/master/Default_of_Credit_Card_Clients)
+2. [Default of Credit Card Clients](https://github.com/melindaleung/Kaggle-Practice-Datasets/tree/master/Default%20of%20Credit%20Card%20Clients)
