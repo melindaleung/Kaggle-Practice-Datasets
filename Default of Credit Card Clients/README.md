@@ -35,4 +35,4 @@ Credit card default is a serious issue that needs to be addressed. Based on the 
 Using those conclusions, I will provide the following recommendations:
 -Since there weren't any extreme demographic variables that indicated high risk borrowers, every credit card holder should receive information or a quick course on credit card usage before they are granted a card. There could also be additional information targeting the aforementioned population but it isn't necessary.
 - Instead, monitoring repayment history is more useful. If any card holder fails to pay duly, monitor the holder. They could watch a video about credit card default and be required to learn more information about the issue, since those who delay payment have a higher chance of default. In addition, card holders with low credit limits should also be watched.
-- The best way to predict if a cardholder is likely to default on their credit card is with Random Forest.
+- The best way to predict if a cardholder is likely to default on their credit card is by applying a Random Forest algorithm.
