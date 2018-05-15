@@ -1,6 +1,6 @@
 # Default of Credit Card Clients
 
-\*To see this on Kaggle, click [here]().
+\*To see this on Kaggle, click [here](https://www.kaggle.com/melindaleung/default-of-credit-card-clients).
 
 This [dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) comes from the UCI Machine Learning Repository. It contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The goal of this proposal is to determine the strongest predictors of default payments and to examine the probability of default payment in relation to various categories of demographic variables. Using this information, I will provide a recommendation on how to lower the rate of default payment.
 
